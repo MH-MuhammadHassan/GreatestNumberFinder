@@ -32,6 +32,7 @@ void main() {
   }
 }
 
+
 int? _getValidInteger() {
   try {
     String? input = stdin.readLineSync();
